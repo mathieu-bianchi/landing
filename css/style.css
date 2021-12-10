@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora&family=Roboto:wght@300&display=swap');
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+	font-family: 'Lora', serif;
+	font-size: 18px;
+	margin: 0px;
+}
+
+h1, h2, h3 {
+	font-family: 'Roboto';
+	font-weight:  bold;
+}
+
+a{
+	text-decoration: none;
+}
+
+#img-sa{
+	width: 230px;
+	height: 190px;
+}
+
+#img-indonesia{
+	width: 280px;
+	height: 190px;
+}
+
+#img-cr{
+	width: 360px;
+	height:  250px;
+}
+
+#whereyoucould{
+	color: #161853;
+}
